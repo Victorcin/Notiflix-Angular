@@ -8,17 +8,14 @@ Notiflix is a JavaScript library for client-side non-blocking notifications, pop
 ### Current Version
 1.1.0 [*](https://github.com/notiflix/Notiflix-Angular/blob/master/ReleaseNotes.md)
 
-### Website
-https://www.notiflix.com/angular
-
 ### Documentation
-https://www.notiflix.com/documentation
+https://v1.notiflix.com/documentation
 
 ### Demo (Modules)
-- **Notiflix Notify** -> https://www.notiflix.com/#Notify
-- **Notiflix Report** -> https://www.notiflix.com/#Report
-- **Notiflix Confirm** -> https://www.notiflix.com/#Confirm
-- **Notiflix Loading** -> https://www.notiflix.com/#Loading
+- **Notiflix Notify** -> https://v1.notiflix.com/#Notify
+- **Notiflix Report** -> https://v1.notiflix.com/#Report
+- **Notiflix Confirm** -> https://v1.notiflix.com/#Confirm
+- **Notiflix Loading** -> https://v1.notiflix.com/#Loading
 
 ---------
 
@@ -400,7 +397,7 @@ Notiflix.Loading.Init({
 ---------
 
 #### Copyright
-Copyright © 2019 Notiflix Angular
+Copyright © 2020 Notiflix Angular
 
 #### License
 MIT license - https://opensource.org/licenses/MIT
