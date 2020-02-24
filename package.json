@@ -1,10 +1,10 @@
 {
   "name": "notiflix-angular",
   "title": "Notiflix for Angular",
-  "main": "dist/notiflix-angular-aio-1.1.0.js",
-  "filename": "dist/notiflix-angular-1.1.0.js",
-  "style": "dist/notiflix-angular-1.1.0.css",
-  "version": "1.1.0",
+  "main": "dist/notiflix-angular-2.0.0.js",
+  "filename": "dist/notiflix-angular-2.0.0.js",
+  "style": "dist/notiflix-angular-2.0.0.css",
+  "version": "2.0.0",
   "description": "Notiflix is a JavaScript library for client-side non-blocking notifications, popup boxes, loading indicators, and more...",
   "homepage": "https://github.com/notiflix/Notiflix-Angular",
   "files": [
@@ -20,7 +20,8 @@
     "alert",
     "confirm",
     "popup box",
-    "javascript alert"
+    "javascript alert",
+	"blocks"
   ],
   "repository": {
     "type": "git",

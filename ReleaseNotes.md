@@ -1,3 +1,8 @@
+@2.0.0
+* **Changed:** Update code with new version (Add loading blocks)
+
+----- 
+
 @1.1.0
 * **Changed:** Code Review.
 
